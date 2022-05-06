@@ -29,3 +29,5 @@ Note that faiss-gpu has some compatibaility issues with certain versions of pyto
 
 
 
+## Note
+Remove all .DS_Store files and uncompress the zip files before running the code
